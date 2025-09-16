@@ -1,7 +1,7 @@
 Repository Structure
 alx-project-nexus/
 │
-├── README.md          Project Nexus documentation
+├── README.md          
 └── docs/              
 
 Project Nexus Documentation
